@@ -261,6 +261,9 @@ Contributing
 ============
 Please fork this repository and contribute back using [pull requests](https://github.com/neevek/Paginize/pulls).
 
+Dartnode
+========
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 
 Under MIT license
 =================
